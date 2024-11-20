@@ -20,7 +20,7 @@ This project focuses on modular design and simplicity, allowing for easy expansi
 - [X] **Set up the project environment**:.
   - Create a project folder and initialize necessary files.
 - [ ] **Create memory storage**:
-  - Design JSON files (`personal_memory.json`, `long_term_memory.json`) for storing data.
+  - Design JSON files (`shortterm_memory.json`, `longterm_memory.json`) for storing data.
   - Write functions to save and load information from these files.
 
 ---
